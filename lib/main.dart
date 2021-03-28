@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:reatividademobx/controllers/counterController.dart';
 import 'controllers/atividadesController.dart';
-import 'homepage.dart';
+import 'pages/homepage.dart';
 
 GetIt getIt = GetIt.instance;
 
