@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 
 abstract class CounterBase extends ChangeNotifier {
+  @protected
   void incrementCounter();
 
+  @protected
   int get counter;
 }
 
