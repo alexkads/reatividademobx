@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:reativdademobx/controllers/counterController.dart';
+import 'package:reatividademobx/controllers/counterController.dart';
 import 'controllers/atividadesController.dart';
 import 'homepage.dart';
 

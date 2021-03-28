@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:get_it/get_it.dart';
-import 'package:reativdademobx/controllers/counterController.dart';
-import 'package:reativdademobx/models/atividade.dart';
-import 'package:reativdademobx/utils/uuid_generate.dart';
+import 'package:reatividademobx/controllers/counterController.dart';
+import 'package:reatividademobx/models/atividade.dart';
+import 'package:reatividademobx/utils/uuid_generate.dart';
 import 'controllers/atividadesController.dart';
 
 class HomePage extends StatefulWidget {

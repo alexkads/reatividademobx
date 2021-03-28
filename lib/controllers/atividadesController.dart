@@ -1,6 +1,6 @@
 import 'package:mobx/mobx.dart';
-import 'package:reativdademobx/models/atividade.dart';
-import 'package:reativdademobx/utils/uuid_generate.dart';
+import 'package:reatividademobx/models/atividade.dart';
+import 'package:reatividademobx/utils/uuid_generate.dart';
 part 'atividadesController.g.dart';
 
 class AtividadesController = _AtividadesBase with _$AtividadesController;

@@ -1,5 +1,4 @@
 import 'package:mobx/mobx.dart';
-import 'package:reativdademobx/utils/uuid_generate.dart';
 part 'atividade.g.dart';
 
 class Atividade = _AtividadeBase with _$Atividade;
